@@ -1,4 +1,3 @@
-```markdown
 # Apple Stock Data Analysis
 
 This repository contains a Jupyter Notebook that performs a comprehensive time series analysis on Apple's stock price data from December 1980 to July 2014.
